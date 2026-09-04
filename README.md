@@ -1,80 +1,60 @@
 <div align="center">
 
-# 👋 Hey, I'm Harika Vaka
+# 👋 Hi, I'm Harika Vaka
 
-### `DATA ENGINEER` · `RESEARCHER` · `BUILDER`
+### `DATA ENGINEER` • `RESEARCHER` • `BUILDER`
 
-**Turning data, code & research into things that actually work.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Data+Engineering+%7C+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks+%7C+Data+Factory;Technology+%C3%97+Business+%C3%97+Research" alt="Typing SVG">
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineering;Data+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks;Research+%C3%97+Technology+%C3%97+Business" alt="Typing SVG">
-
-<br><br>
 
 <a href="https://github.com/harikavaka07">
 <img src="https://img.shields.io/badge/GitHub-harikavaka07-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/harikavaka07?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/13%2B%20Projects-Explore-2ea44f?style=for-the-badge&logo=github">
 </a>
 
 </div>
 
 ---
 
-# 🧭 `whoami`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   👩‍💻  HARIKA VAKA                                           ║
-║                                                              ║
-║   🎓  Computer Science & Engineering — Amrita '26            ║
-║   🔬  Research Intern — IIT Hyderabad                        ║
-║   📊  Data Engineering • Data Analytics                      ║
-║   🐍  Python • SQL • PySpark                                 ║
-║   ☁️  Azure • Databricks • Data Factory                       ║
-║   📚  2× IEEE Publications                                   ║
-║                                                              ║
-║   Building practical systems at the intersection             ║
-║   of technology, data, business and research.                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ What I Do
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 📊 Data Engineering
+## 🧭 About Me
 
-* ETL / ELT pipelines
-* Azure Data Factory
-* Azure Databricks
-* Python & PySpark
-* SQL & data transformation
-* Cloud-based workflows
-* ERP data integration
+🎓 **Amrita Vishwa Vidyapeetham '26**
+
+🔬 **Research Intern — IIT Hyderabad**
+
+📊 Data Engineering & Analytics
+
+🐍 Python • SQL • PySpark
+
+☁️ Azure • Databricks
+
+📚 **2× IEEE Publications**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 Applied Technology
+## ⚡ Current Focus
 
-* Machine Learning
-* Computer Vision
-* Data Analytics
-* Business Intelligence
-* Full-Stack Development
-* IoT Systems
-* Research-driven solutions
+```text
+☁️ Azure Data Engineering
+📦 Data Factory
+🔥 Databricks + PySpark
+🗄️ SQL & ETL
+📈 Analytics & BI
+🔬 Technology Research
+```
+
+**Building data workflows that turn
+raw information → insights → decisions.**
 
 </td>
 </tr>
@@ -82,51 +62,18 @@
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,flask,mysql,mongodb,firebase,azure,git,github,vscode" />
 
-### ☁️ Data & Cloud
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-</p>
+`Python` `C++` `SQL` `JavaScript` `React` `Node.js` `Express`
+`Azure` `Data Factory` `Databricks` `PySpark` `Power BI` `ETL`
 
-### 🌐 Development
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</p>
-
-### 🗄️ Databases & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+</div>
 
 ---
 
@@ -135,41 +82,51 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🐆 Night-Time Wildlife Detection
+### 🐆 Wildlife Detection
 
-**Deep Learning · YOLO · Computer Vision**
+**Night-Time Wildlife Detection**
 
-A deep-learning based wildlife detection system designed for challenging nighttime environments.
+🌙 Low-light detection
+🧠 YOLO / Deep Learning
+🖼️ **25K+ images**
 
-**25K+ images**
+`Python` `YOLO` `CV`
 
-`Python` `YOLO` `Deep Learning` `Computer Vision`
-
-<br>
-
-<a href="https://github.com/harikavaka07/Night-Time-Wildlife-Detection-Using-Deep-Learning">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
-</a>
+<a href="https://github.com/harikavaka07/Night-Time-Wildlife-Detection-Using-Deep-Learning">→ View Project</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 💧 IoT Water Quality Monitoring
+### 💧 IoT Water Quality
 
-**IoT · ESP32 · Firebase**
+**Drinking Water Monitoring**
 
-A connected monitoring system for collecting and tracking water-quality parameters.
+📡 ESP32
+☁️ Firebase
+📊 Real-time monitoring
 
-`ESP32` `Firebase` `IoT`
+`IoT` `ESP32` `Firebase`
 
-<br>
+<a href="https://github.com/harikavaka07?tab=repositories">→ View Project</a>
 
-<a href="https://github.com/harikavaka07?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-2ea44f?style=for-the-badge&logo=github">
-</a>
+</td>
+
+<td width="33%" valign="top">
+
+### 🏪 Store Intelligence
+
+**Retail Intelligence**
+
+📊 Data Analysis
+💡 Business Insights
+🏆 Hackathon Project
+
+`Python` `Analytics` `BI`
+
+<a href="https://github.com/harikavaka07?tab=repositories">→ View Project</a>
 
 </td>
 
@@ -177,39 +134,47 @@ A connected monitoring system for collecting and tracking water-quality paramete
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🏪 Store Intelligence
+### 🧠 Sentiment Analysis
 
-**Analytics · Business Intelligence**
+**Real-Time Multilingual NLP**
 
-A retail intelligence project focused on extracting useful insights from business data.
+🌎 Multilingual text
+⚡ Real-time analysis
+🧠 Sentiment classification
 
-`Python` `Analytics` `Business Intelligence`
-
-<br>
-
-<a href="https://github.com/harikavaka07?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github">
-</a>
+`Python` `NLP` `ML`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🧠 Multilingual Sentiment Analysis
+### 🏙️ Smart City
 
-**NLP · Machine Learning**
+**Smart City Management**
 
-A real-time system for analysing sentiment across multilingual text.
+🏙️ City services
+🐍 Python / Flask
+🌐 Web application
 
-`Python` `NLP` `Machine Learning`
+`Python` `Flask`
 
-<br>
+</td>
 
-<a href="https://github.com/harikavaka07?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-2ea44f?style=for-the-badge&logo=github">
-</a>
+<td width="33%" valign="top">
+
+### 🌱 More Projects
+
+**Explore the Lab →**
+
+💳 Fraud Detection
+🏥 Hospital System
+🐝 BeeSafe
+🚗 Smart Parking
+🌾 Crop Recommendation
+
+<a href="https://github.com/harikavaka07?tab=repositories">→ Explore All</a>
 
 </td>
 
@@ -218,170 +183,116 @@ A real-time system for analysing sentiment across multilingual text.
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 # 🔬 Research
 
-<div align="center">
-
-### 🏛️ IIT HYDERABAD
+### 🏛️ IIT Hyderabad
 
 **Research Intern — Operations Strategy & Entrepreneurship**
 
-</div>
+Working on:
 
-My research work involves:
+`Qualitative Research`
+`Founder Interviews`
+`Questionnaire Design`
+`Operations Strategy`
+`Entrepreneurship`
 
-```text
-📋 Questionnaire Design
-        ↓
-🎙️ Startup Founder Interviews
-        ↓
-📊 Qualitative Data Collection
-        ↓
-🔍 Analysis & Interpretation
-        ↓
-💡 Operations & Strategy Insights
-```
+</td>
 
-### 📚 Publications
+<td width="50%" valign="top">
 
-**2× IEEE Xplore Publications**
+# 📚 Publications
 
-Exploring the intersection of:
+### IEEE Xplore
 
-**Technology × Data × Business × Research**
+🏆 **2 Published Papers**
+
+Research interests:
+
+**Technology**
+×
+**Data**
+×
+**Business**
+×
+**Research**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harikavaka07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=harikavaka07&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikavaka07&layout=compact&hide_border=true&langs_count=8" height="180">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikavaka07&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikavaka07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165">
 
 </div>
 
 ---
 
-# 🧪 Currently Exploring
+<table>
+<tr>
 
-```text
-                AZURE DATA ENGINEERING
-                         │
-                         ▼
-                AZURE DATA FACTORY
-                         │
-                         ▼
-                 DATABRICKS
-                         │
-                         ▼
-                    PYSPARK
-                         │
-                         ▼
-                  ETL / ELT
-                         │
-                         ▼
-                   SQL + DATA
-                         │
-                         ▼
-              ANALYTICS & BI
-                         │
-                         ▼
-                  📈 INSIGHTS
-```
+<td width="50%" valign="top">
 
-### My current focus
+## 🎯 Currently Learning
 
-`Azure` `Data Factory` `Databricks` `PySpark` `SQL` `ETL` `Power BI`
+☁️ Azure Data Engineering
+⚙️ Azure Data Factory
+🔥 Databricks
+⚡ PySpark
+🗄️ Advanced SQL
+📊 Power BI
 
----
+</td>
 
-# 🎯 The Bigger Picture
+<td width="50%" valign="top">
 
-<div align="center">
+## 💡 Interested In
 
-```text
-       SOFTWARE
-           │
-           ▼
-          DATA
-           │
-           ▼
-       ANALYTICS
-           │
-           ▼
-        BUSINESS
-           │
-           ▼
-        RESEARCH
-           │
-           ▼
-   BETTER DECISIONS
-```
-
-### I don't just want to write code.
-
-### I want to build things that solve problems.
-
-</div>
-
----
-
-# 🌱 Beyond the Code
-
-```text
-☕ Coffee
-   ↓
-💻 Code
-   ↓
-📊 Data
-   ↓
+📊 Data Engineering
+🤖 Applied AI / ML
+📈 Analytics
+🏢 Technology & Business
 🔬 Research
-   ↓
-🚀 Build
-   ↓
-💡 Learn
-   ↓
-🔁 Repeat
-```
+🚀 Product & Strategy
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-### Building something interesting?
+# 💻 `CODE → DATA → INSIGHT → IMPACT`
 
-### I'd love to talk.
+### Building. Learning. Researching. Repeating.
 
 <br>
 
 <a href="https://github.com/harikavaka07">
-<img src="https://img.shields.io/badge/GitHub-harikavaka07-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### `DATA • CODE • RESEARCH • BUILD`
-
-⭐ **Thanks for stopping by!**
+<img src="https://komarev.com/ghpvc/?username=harikavaka07&label=PROFILE%20VIEWS&style=flat">
 
 </div>
