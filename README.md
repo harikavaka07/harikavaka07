@@ -4,295 +4,154 @@
 
 ### `DATA ENGINEER` • `RESEARCHER` • `BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Data+Engineering+%7C+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks+%7C+Data+Factory;Technology+%C3%97+Business+%C3%97+Research" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Data+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks+%7C+Data+Factory;Technology+%C3%97+Business+%C3%97+Research">
 
-<br>
-
-<a href="https://github.com/harikavaka07">
-<img src="https://img.shields.io/badge/GitHub-harikavaka07-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/harikavaka07?tab=repositories">
-<img src="https://img.shields.io/badge/13%2B%20Projects-Explore-2ea44f?style=for-the-badge&logo=github">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-harikavaka07-181717?style=flat-square\&logo=github)](https://github.com/harikavaka07) [![Repositories](https://img.shields.io/badge/Repositories-Explore-2ea44f?style=flat-square\&logo=github)](https://github.com/harikavaka07?tab=repositories)
 
 </div>
-
----
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🧭 About Me
+### 🧭 About Me
 
 🎓 **Amrita Vishwa Vidyapeetham '26**
-
 🔬 **Research Intern — IIT Hyderabad**
-
 📊 Data Engineering & Analytics
-
 🐍 Python • SQL • PySpark
-
 ☁️ Azure • Databricks
-
 📚 **2× IEEE Publications**
 
 </td>
-
 <td width="50%" valign="top">
 
-## ⚡ Current Focus
+### ⚡ Skills
 
-```text
-☁️ Azure Data Engineering
-📦 Data Factory
-🔥 Databricks + PySpark
-🗄️ SQL & ETL
-📈 Analytics & BI
-🔬 Technology Research
-```
-
-**Building data workflows that turn
-raw information → insights → decisions.**
+`Python` `C++` `SQL` `JavaScript`
+`Azure` `Data Factory` `Databricks`
+`PySpark` `ETL` `Power BI`
+`React` `Node.js` `Express` `Flask`
+`MySQL` `MongoDB` `Firebase`
 
 </td>
 </tr>
 </table>
 
----
-
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,flask,mysql,mongodb,firebase,azure,git,github,vscode" />
-
-<br><br>
-
-`Python` `C++` `SQL` `JavaScript` `React` `Node.js` `Express`
-`Azure` `Data Factory` `Databricks` `PySpark` `Power BI` `ETL`
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,flask,mysql,mongodb,firebase,azure,git,github,vscode">
 </div>
 
----
-
-# 🚀 Featured Projects
+### 🚀 Projects
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-### 🐆 Wildlife Detection
-
-**Night-Time Wildlife Detection**
-
-🌙 Low-light detection
-🧠 YOLO / Deep Learning
-🖼️ **25K+ images**
-
-`Python` `YOLO` `CV`
-
-<a href="https://github.com/harikavaka07/Night-Time-Wildlife-Detection-Using-Deep-Learning">→ View Project</a>
+**🐆 Night-Time Wildlife Detection**
+YOLO-based wildlife detection for challenging low-light environments.
+`Python` `YOLO` `Computer Vision`
+[→ Project](https://github.com/harikavaka07/Night-Time-Wildlife-Detection-Using-Deep-Learning)
 
 </td>
-
 <td width="33%" valign="top">
 
-### 💧 IoT Water Quality
-
-**Drinking Water Monitoring**
-
-📡 ESP32
-☁️ Firebase
-📊 Real-time monitoring
-
-`IoT` `ESP32` `Firebase`
-
-<a href="https://github.com/harikavaka07?tab=repositories">→ View Project</a>
+**💧 IoT Water Quality**
+Real-time drinking water quality monitoring.
+`ESP32` `Firebase` `IoT`
+[→ Project](https://github.com/harikavaka07?tab=repositories)
 
 </td>
-
 <td width="33%" valign="top">
 
-### 🏪 Store Intelligence
-
-**Retail Intelligence**
-
-📊 Data Analysis
-💡 Business Insights
-🏆 Hackathon Project
-
+**🏪 Store Intelligence**
+Retail analytics & business intelligence project.
 `Python` `Analytics` `BI`
-
-<a href="https://github.com/harikavaka07?tab=repositories">→ View Project</a>
+[→ Project](https://github.com/harikavaka07?tab=repositories)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="33%" valign="top">
 
-### 🧠 Sentiment Analysis
-
-**Real-Time Multilingual NLP**
-
-🌎 Multilingual text
-⚡ Real-time analysis
-🧠 Sentiment classification
-
+**🧠 Multilingual Sentiment Analysis**
+Real-time multilingual sentiment analysis.
 `Python` `NLP` `ML`
 
 </td>
-
 <td width="33%" valign="top">
 
-### 🏙️ Smart City
+**🚗 Smart Parking**
+Smart car parking management system.
+`Python` `IoT`
 
-**Smart City Management**
+</td>
+<td width="33%" valign="top">
 
-🏙️ City services
-🐍 Python / Flask
-🌐 Web application
-
+**🏙️ Smart City**
+Smart city management web application.
 `Python` `Flask`
 
 </td>
-
+</tr>
+<tr>
 <td width="33%" valign="top">
 
-### 🌱 More Projects
-
-**Explore the Lab →**
-
-💳 Fraud Detection
-🏥 Hospital System
-🐝 BeeSafe
-🚗 Smart Parking
-🌾 Crop Recommendation
-
-<a href="https://github.com/harikavaka07?tab=repositories">→ Explore All</a>
+**🏥 Hospital Booking**
+Hospital appointment booking system.
+`Web` `Database`
 
 </td>
+<td width="33%" valign="top">
 
+**🌱 Crop Recommendation**
+Data-driven crop recommendation system.
+`Python` `ML`
+
+</td>
+<td width="33%" valign="top">
+
+**🐝 BeeSafe**
+Smart safety monitoring system.
+`IoT` `Python`
+
+</td>
 </tr>
 </table>
 
----
+### 🔬 Research & Publications
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-# 🔬 Research
+**🏛️ IIT Hyderabad**
+Research Intern — Operations Strategy & Entrepreneurship
 
-### 🏛️ IIT Hyderabad
-
-**Research Intern — Operations Strategy & Entrepreneurship**
-
-Working on:
-
-`Qualitative Research`
-`Founder Interviews`
-`Questionnaire Design`
-`Operations Strategy`
-`Entrepreneurship`
+`Qualitative Research` `Founder Interviews` `Questionnaire Design` `Operations Strategy`
 
 </td>
-
 <td width="50%" valign="top">
 
-# 📚 Publications
+**📚 IEEE Xplore**
+🏆 **2× Published Papers**
 
-### IEEE Xplore
-
-🏆 **2 Published Papers**
-
-Research interests:
-
-**Technology**
-×
-**Data**
-×
-**Business**
-×
-**Research**
+**Technology × Data × Business × Research**
 
 </td>
-
 </tr>
 </table>
 
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harikavaka07&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165">
+### 💻 `CODE → DATA → INSIGHT → IMPACT`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikavaka07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165">
+**Building • Learning • Researching • Repeating**
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)](https://github.com/harikavaka07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
 
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎯 Currently Learning
-
-☁️ Azure Data Engineering
-⚙️ Azure Data Factory
-🔥 Databricks
-⚡ PySpark
-🗄️ Advanced SQL
-📊 Power BI
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💡 Interested In
-
-📊 Data Engineering
-🤖 Applied AI / ML
-📈 Analytics
-🏢 Technology & Business
-🔬 Research
-🚀 Product & Strategy
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 💻 `CODE → DATA → INSIGHT → IMPACT`
-
-### Building. Learning. Researching. Repeating.
-
-<br>
-
-<a href="https://github.com/harikavaka07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=harikavaka07&label=PROFILE%20VIEWS&style=flat">
+<img src="https://komarev.com/ghpvc/?username=harikavaka07&label=PROFILE+VIEWS&style=flat-square">
 
 </div>
