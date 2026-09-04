@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h1>
+<h2 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h2>
 
 <p align="center">
 <b>DATA ENGINEER • RESEARCHER • BUILDER</b>
@@ -6,15 +6,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Data+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks+%7C+Data+Factory;Technology+%C3%97+Business+%C3%97+Research">
-</p>
-
-<p align="center">
-<a href="https://github.com/harikavaka07">
-<img src="https://img.shields.io/badge/GitHub-harikavaka07-181717?style=flat-square&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/harika-vaka/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin">
-</a>
 </p>
 
 ### 🛠️ Tech Stack
