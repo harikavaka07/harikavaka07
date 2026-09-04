@@ -1,4 +1,4 @@
-<h3 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h3>
+<h1 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h1>
 
 <p align="center">
 <b>DATA ENGINEER • RESEARCHER • BUILDER</b>
