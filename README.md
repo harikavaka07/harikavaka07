@@ -1,16 +1,16 @@
-<h1 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h1>
+<h2 align="center" style="margin-top:0;margin-bottom:4px;">👋 Hi, I'm Harika Vaka</h2>
 
-<p align="center">
+<p align="center" style="margin:0 0 4px 0;">
 <b>DATA ENGINEER • RESEARCHER • BUILDER</b>
 </p>
 
-<p align="center">
+<p align="center" style="margin:0 0 2px 0;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Data+Analytics;Python+%7C+SQL+%7C+PySpark;Azure+%7C+Databricks+%7C+Data+Factory;Technology+%C3%97+Business+%C3%97+Research">
 </p>
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" style="margin:0;">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,flask,mysql,mongodb,firebase,azure,git,github,vscode">
 </p>
 
@@ -90,6 +90,6 @@ Real-time multilingual sentiment analysis.
 </tr>
 </table>
 
-<p align="center">
+<p align="center" style="margin:0;">
 <img src="https://komarev.com/ghpvc/?username=harikavaka07&label=PROFILE+VIEWS&style=flat-square">
 </p>
