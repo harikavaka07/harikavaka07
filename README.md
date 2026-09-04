@@ -11,6 +11,7 @@
 </div>
 
 ### 🛠️ Tech Stack
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,flask,mysql,mongodb,firebase,azure,git,github,vscode">
@@ -39,31 +40,15 @@ Real-time drinking water quality monitoring.
 </td>
 <td width="33%" valign="top">
 
-**🧠 Multilingual Sentiment Analysis**  
-Real-time multilingual sentiment analysis.  
-`Python` `NLP` `ML`  
-[→ Project](https://github.com/harikavaka07/RealTime-Multilingual-SocialPosts-Sentiment-Analysis)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-**🚗 Smart Parking**  
-Smart car parking management system.  
-`Python` `IoT`  
-[→ Project](https://github.com/harikavaka07/Smart-Car-Parking-System-)
-
-</td>
-<td width="33%" valign="top">
-
-**🏙️ Smart City**  
+**🏙️ Smart City Management**  
 Smart city management web application.  
 `JavaScript` `Flask`  
 [→ Project](https://github.com/harikavaka07/SmartCityMangement)
 
 </td>
+</tr>
+
+<tr>
 <td width="33%" valign="top">
 
 **🏥 Hospital Booking**  
@@ -72,15 +57,12 @@ Hospital appointment booking system.
 [→ Project](https://github.com/harikavaka07/Hospital-appointment-booking-system)
 
 </td>
-</tr>
-
-<tr>
 <td width="33%" valign="top">
 
-**🌱 Crop Recommendation**  
-Data-driven crop recommendation system.  
-`Python` `ML`  
-[→ Project](https://github.com/harikavaka07/Crop-Recomendation-System)
+**🚗 Smart Parking System**  
+Smart car parking management system.  
+`Python` `IoT`  
+[→ Project](https://github.com/harikavaka07/Smart-Car-Parking-System-)
 
 </td>
 <td width="33%" valign="top">
@@ -91,6 +73,18 @@ Smart safety monitoring system.
 [→ Project](https://github.com/harikavaka07/BeeSafe)
 
 </td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+**🧠 Multilingual Sentiment Analysis**  
+Real-time multilingual sentiment analysis.  
+`Python` `NLP` `ML`  
+[→ Project](https://github.com/harikavaka07/RealTime-Multilingual-SocialPosts-Sentiment-Analysis)
+
+</td>
+<td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
